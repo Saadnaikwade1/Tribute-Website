@@ -4,7 +4,7 @@ This is a simple tribute website dedicated to **Dr. A.P.J. Abdul Kalam**, the fo
 
 ## 🌐 Live Demo
 
-[Click here to view the website](#)  
+[Click here to view the website](https://saadnaikwade1.github.io/tribute-website)  
 > _Replace the `#` with your GitHub Pages or hosting link once deployed._
 
 ---
